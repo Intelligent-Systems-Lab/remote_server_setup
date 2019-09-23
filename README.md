@@ -4,8 +4,8 @@
 
 [Install GPU driver](https://medium.com/codeda/ubuntu-nvidia-driver-%E5%AE%89%E8%A3%9D-38a47157663b) 
 
-:::warning
-CUDA 10.0 requires 410.x or higher.
+:::warning 
+CUDA 10.0 requires 410.x or higher. 
 :::
 
 We use version 410.78
