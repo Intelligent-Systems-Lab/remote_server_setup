@@ -1,0 +1,4 @@
+wheel
+jupyterhub==1.1.0
+jupyterlab==2.2.0
+ipywidgets
